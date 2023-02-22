@@ -1,4 +1,4 @@
-# Robert Njenga
+<H1 align="center">Robert Njenga</h1>
 <br/>
 <p align="center">
 <a href="https://robertnjenga-portfolio-website.netlify.app"><img alt="Website" src="https://img.shields.io/badge/Portfolio-robertnjenga-blue?style=flat-square&logo=google-chrome"></a>
