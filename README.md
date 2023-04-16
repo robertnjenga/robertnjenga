@@ -25,6 +25,11 @@ I'm Robert Njenga, a self-taught software developer who loves exploring new tech
 <span><b><center>React</center></b></span> 
 <img height=60px src="https://i.postimg.cc/pd4cyJTR/react.png"> 
 </td>
+  
+<td align="center" width="20%">
+<span><b><center>NextJS</center></b></span> 
+<img height=60px src="https://i.postimg.cc/8CVhnfgP/nextjs.png"> 
+</td>
 
 <td align="center" width="20%">
 <span><b><center></center></b></span> 
