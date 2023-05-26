@@ -57,7 +57,13 @@ I'm Robert Njenga, a self-taught software developer who loves exploring new tech
 <span><b><center>Sass</center></b></span> 
 <img height=65px src="https://i.postimg.cc/hGZbpLQ6/sass.png"> 
 </td>
+  
+<td align="center" width="20%">
+<span><b><center>Tailwind CSS</center></b></span> 
+<img height=65px src="https://i.postimg.cc/SstbWqcb/tailwindcss.png"> 
+</td>
 </tr>
+  
 <tr>
 <td align="center" width="20%">
 <span><b><center>Sanity</center></b></span> 
