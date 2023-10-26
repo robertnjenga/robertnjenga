@@ -3,6 +3,7 @@
 <p align="center">
 <a href="https://robertnjenga-portfolio-website.netlify.app"><img alt="Website" src="https://img.shields.io/badge/Portfolio-robertnjenga-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.instagram.com/robert_codes"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-robert_codes-blue?style=flat-square&logo=instagram"></a>
+<a href="https://www.linkedin.com/in/robert-njenga-812023291"><img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-robertnjenga-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:rnnjenga@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-rnnjenga@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
