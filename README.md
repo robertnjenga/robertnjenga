@@ -33,6 +33,11 @@ I'm Robert Njenga, a self-taught software developer who loves exploring new tech
 </td>
 
 <td align="center" width="20%">
+<span><b><center>Typescript</center></b></span> 
+<img height=60px src="https://i.postimg.cc/2ybPmF9z/typescript.png"> 
+</td>
+
+<td align="center" width="20%">
 <span><b><center></center></b></span> 
 <img height=60px src="https://i.postimg.cc/y6bxxJhn/javascript.png"> 
 </td>
